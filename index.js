@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { GITHUB_ISSUE_LINK } from "./const.js";
+const { GITHUB_ISSUE_LINK } = require("./const");
 
 const fs = require("fs");
 const path = require("path");
