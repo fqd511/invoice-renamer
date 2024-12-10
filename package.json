@@ -1,6 +1,6 @@
 {
   "name": "rename-invoice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cli util to rename invoice pdf files",
   "main": "index.js",
   "repository": {
